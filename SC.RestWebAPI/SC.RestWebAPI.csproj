@@ -109,6 +109,7 @@
   <ItemGroup>
     <Content Include="Documentation\StudentClass_Technologies_Architecture_Documentation.docx" />
     <Content Include="Documentation\StudentClass_RestWebAPI_Documentation.docx" />
+    <Content Include="Database\Student.bak" />
     <None Include="packages.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
