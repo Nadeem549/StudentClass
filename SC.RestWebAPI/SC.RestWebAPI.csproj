@@ -107,6 +107,8 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Documentation\StudentClass_Technologies_Architecture_Documentation.docx" />
+    <Content Include="Documentation\StudentClass_RestWebAPI_Documentation.docx" />
     <None Include="packages.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
